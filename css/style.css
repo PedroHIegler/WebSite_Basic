@@ -26,7 +26,7 @@ section.main{
     background-size: cover;
     background-position: center;
     width: 100%;
-    padding: 15px 0;
+    padding: 15px 5%;
     min-height: 700px;
     position: relative;
 }
@@ -152,6 +152,7 @@ nav.menu-desktop ul li a{
     margin-top: 18px;
     font-size: 16px;
     font-weight: lighter;
+    text-align: justify;
 }
 
 .conteudo-main a{
@@ -521,4 +522,25 @@ footer p{
     .mleft{
         margin-left: 0;
     }
+
+    .conteudo-main h2{
+        font-size: 33px;
+    }
+
+    .conteudo-main p{
+        color: white;
+        margin-top: 18px;
+        font-size: 15px;
+        font-weight: lighter;
+        text-align: justify;
+    }
+    
+    .conteudo-main a{
+        width: 137px;
+        height: 40px;
+        margin-top: 18px;
+        line-height: 40px;
+        font-size: 15px;
+    }
+    
 }
