@@ -502,5 +502,23 @@ footer p{
         width: 100%;
         max-width: 300px;
         margin-top: 40px;
-    }   
+    }  
+
+    .time .equipe{
+        flex-direction: column;
+        margin-top: 20px;
+    }
+    
+    .equipe-single{
+        width: 100%;
+        margin-top: 20px;    
+    }
+    
+    .mright{
+        margin-right: 0;
+    }
+    
+    .mleft{
+        margin-left: 0;
+    }
 }
